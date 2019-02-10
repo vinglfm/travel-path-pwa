@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# travel-path-pwa
+Plan your amazing vacation upfront 
 
 ## Available Scripts
 
